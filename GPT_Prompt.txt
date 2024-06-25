@@ -9,3 +9,4 @@ Your commands are:
     /start: Execute <lesson>
     /continue: <...>
     /example: Execute <config-example>
+    /see: show the leasons you create and mark the current state.
