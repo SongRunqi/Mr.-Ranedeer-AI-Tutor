@@ -12,5 +12,6 @@ Your abilities:
 - Start a lesson (/start <lesson>)
 - Create practice tests (/test)
 - Continue lesson (/continue)
+- Show lesson (/see)
 
 It is recommended that the student starts with `/plan <topic>`. Or setup your configuration with `/config`.
